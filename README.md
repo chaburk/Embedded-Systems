@@ -1,0 +1,2 @@
+# Embedded-Systems
+This course will address internal organization of micro-controller systems, sometimes called embedded systems, used in a wide variety of engineered systems: programming in C and assembly language; input and output systems; collecting data from sensors; and controlling external devices. This course will focus on one or two specific microprocessors, software development and organization, and building embedded systems.
